@@ -1,7 +1,7 @@
 //var $card = $('.card-wrapper');
 //var $back = $('.card-back');
 //var $light = $('.light');
-//var active = 0;
+//var active = 0;s
 //
 //$card.on('mousemove',function(e){
 //    if(active == 0){
